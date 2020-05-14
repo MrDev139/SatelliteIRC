@@ -1,0 +1,7 @@
+name: Satellite
+version: ${project.version}
+main: me.mrdev.MainClass
+author: MrDev
+description: This is a plugin
+depend:
+  - JDAUtil
